@@ -6,7 +6,7 @@
  * @author Seotoaster core team <core.team@seotoaster.com>
  */
 
-class Plugin extends Tools_Plugins_Abstract {
+class Stpbootstrap extends Tools_Plugins_Abstract {
 
 	/**
 	 * List of action that should be allowed to specific roles
